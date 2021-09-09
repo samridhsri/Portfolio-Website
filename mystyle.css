@@ -145,6 +145,7 @@ div.projects{
     display: flex;
     justify-content: space-evenly;
     vertical-align: auto;
+    
 }
 div.gallery {
     margin: 5px;
