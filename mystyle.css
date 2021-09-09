@@ -128,6 +128,7 @@ section.intro{
 section.aboutme{
     background-image: url("about me.png");
     background-size: contain;
+    background-repeat: no-repeat;
     
 }
 
